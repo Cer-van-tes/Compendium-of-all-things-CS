@@ -3,7 +3,6 @@
 # Compendium-of-all-things-CS
 This is my attempt to consolidate useful sites and tools for learning programming and Cs topics hopefully useful to anyone in need of resources and references that I found useful.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Morakanen/Compendium-of-all-things-CS)
