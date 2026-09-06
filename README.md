@@ -16,6 +16,7 @@ This is my attempt to consolidate useful sites and tools for learning programmin
 
 ## 📖 Table of Contents
 - [General Career Guide](#-General-Career-Guide)
+- [💻 Learn a Language](#-learn-a-language)
 - [🧮 Algorithms & Data Structures](#-algorithms--data-structures)
 - [🧱 System Design](#-system-design)
 - [🌐 Web Development](#-web-development)
@@ -35,6 +36,10 @@ This is my attempt to consolidate useful sites and tools for learning programmin
 - [roadmap.sh ](https://roadmap.sh/) : one of the best ways pathway guides to see what topics are needed for different roles in the industry 
 
 <div align="right"><sub><a href="#-table-of-contents">↑ back to top</a></sub></div>
+## 💻 Learn a Language
+ 
+- **Python** — [The Python Tutorial](https://docs.python.org/3/tutorial/) — official, thorough, and free
+- **C++** - [learnCPP](https://www.learncpp.com/) - geniuinely a bible for starting c++ devs throughly goes through a majority of the c++ langauge and provides exercises to practice langauge concepts brekaing it down into modules and also maintained regularly
 
 ## 🧮 Algorithms & Data Structures
 
